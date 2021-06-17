@@ -4,11 +4,11 @@
 Meu caminho no aprendizado em JavaScript.
 aqui vou colocar umas coisas dos meus estudos e postar!
 
-# BIBLIOGRAFIA RECOMENDADA
+## BIBLIOGRAFIA RECOMENDADA
 
 
 
 
-# DICAS PARA ESTUDAR
+## DICAS PARA ESTUDAR
 
-# PROGRAMAS NÓS INSTALAMOS NO COMPUTADOR
+## PROGRAMAS QUE INSTALAMOS NO COMPUTADOR
